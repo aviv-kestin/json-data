@@ -1,16 +1,9 @@
-
-body {
-    background-color: rgb(210, 190, 228);
-}
-
 .centered {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: rgb(255, 255, 255);
-
-
+    color: rgb(0, 0, 0);
 }
 
 .center {
@@ -18,7 +11,6 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;    
-
 }
 
 .centering {
@@ -29,16 +21,32 @@ body {
     margin-top: 1vh;
 }
 
-.list-centered {
-    display: flex;
+.grid-centered {
+    display: grid;
+    grid-template-columns: repeat(6, auto); /* Six rectangles per row */
+    grid-gap: 10px;
     justify-content: center;
     align-items: center;
-    flex-direction: column; /* Stack list items vertically */
-    list-style: none; /* Remove default list styles */
-    padding: 0; /* Remove default padding */
-    margin: 0; /* Remove default margin */
-    color: rgb(255, 255, 255);
     margin-top: 3vh;
-    list-style:inside;
-
 }
+
+.artist {
+    width: 14vw; /* Set width to 14vw */
+    height: 5vh; /* Adjust height automatically based on content */
+    display: flex;
+    text-align: center; /* Center the text horizontally */
+    justify-content: center;
+    align-items: center;
+    color: white; /* Set text color to white */
+    font-size: 1rem; /* Set font size */
+}
+
+
+/* Define colors for each movement */
+.impressionism { background-color: #f797a7; }
+.post-impressionism { background-color: #4c85d5; }
+.pointillism { background-color: #ecb426; }
+.symbolism { background-color: #b0de93; }
+.romanticism { background-color: #FFA07A; }
+.realism { background-color: #008000; }
+.expressionism { background-color: #FF0000; }
