@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Artists</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="header centered">
+  <h2>Radical Painters</h2>
+  </div>
+  
+  <div class="center"><button id="toggleSort">Birth Year</button></div>
+  
+  <div class="centering">
+  <select id="movementSelect">
+    <option value="">All Movements</option>
+    <option value="impressionism">Impressionism</option>
+    <option value="post-impressionism">Post-Impressionism</option>
+    <option value="pointillism">Pointillism</option>
+    <option value="symbolism">Symbolism</option>
+    <option value="romanticism">Romanticism</option>
+    <option value="realism">Realism</option>
+    <option value="expressionism">Expressionism</option>
+  </select>
+  </div>
+
+  
+  <ul id="artistsList" class="list-centered"></ul>
+
+<script src="script.js"></script>
+</body>
+</html>

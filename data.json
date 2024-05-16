@@ -1,0 +1,123 @@
+[
+
+{
+    "name":"Paul Cézanne",
+    "born": "1839",
+    "movement":["impressionism", "post-impressionism"]
+},
+{ 
+    "name": "Claude Monet",
+    "born": "1840",
+    "movement": "impressionism"
+},
+{
+    "name": "Camille Pissaro",
+    "born": "1830",
+    "movement": "impressionism"
+},
+{
+    "name": "Auguste Renoir",
+    "born": "1841",
+    "movement": "impressionism"
+},
+{
+    "name": "Eugène Delacroix",
+    "born": "1798",
+    "movement": "romanticism"
+},
+{
+    "name": "Francisco de Goya",
+    "born": "1746",
+    "movement": "romanticism"
+},
+{
+    "name": "Édouard Manet",
+    "born": "1832",
+    "movement": "impressionism"
+},
+{
+    "name": "Berthe Morisot",
+    "born": "1841",
+    "movement": "impressionism"
+},
+{
+    "name": "Mary Cassatt",
+    "born": "1844",
+    "movement": "impressionism"
+},
+{
+    "name": "Alfred Sisley",
+    "born": "1839",
+    "movement": "impressionism"
+},
+{
+    "name": "Paul Signac",
+    "born": "1863",
+    "movement": ["post-impressionism", "pointillism"]
+},
+{
+    "name": "Georges Seurat",
+    "born": "1859",
+    "movement": ["post-impressionism", "pointillism"]
+},
+{
+    "name": "Vincent Van Gogh",
+    "born": "1853",
+    "movement": "post-impressionism"
+},
+{
+    "name": "Paul Gauguin",
+    "born": "1848",
+    "movement": ["post-impressionism", "symbolism"]
+},
+{
+    "name": "Puvis de Chavannes",
+    "born": "1824",
+    "movement": "symbolism"
+},
+{
+    "name": "Émile Bernard",
+    "born": "1868",
+    "movement": ["post-impressionism", "symbolism"]
+},
+{
+    "name": "Henri de Toulouse-Lautrec",
+    "born": "1864",
+    "movement": "post-impressionism"
+},
+{
+    "name": "Odilon Redon",
+    "born": "1840",
+    "movement": ["post-impressionism", "symbolism"]
+},
+{
+    "name": "Jean-Baptiste-Camille Corot",
+    "born": "1796",
+    "movement": "realism"
+},
+{
+    "name": "Gustave Courbet",
+    "born": "1819",
+    "movement": "realism"
+},
+{
+    "name": "Henri Matisse",
+    "born": "1869",
+    "movement": ["post-impressionism", "modernism"]
+},
+{
+    "name": "Edvard Munch",
+    "born": "1863",
+    "movement": ["expressionism", "symbolism"]
+},
+{
+    "name": "Gustav Klimt",
+    "born": "1862",
+    "movement": ["expressionism", "modernism"]
+},
+{
+    "name": "Egon Schiele",
+    "born": "1890",
+    "movement": ["symbolism", "modernism", "expressionism"]
+}
+]

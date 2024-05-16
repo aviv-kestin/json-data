@@ -1,0 +1,44 @@
+
+body {
+    background-color: rgb(210, 190, 228);
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;    
+
+}
+
+.centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;    
+    margin-top: 1vh;
+}
+
+.list-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack list items vertically */
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    color: rgb(255, 255, 255);
+    margin-top: 3vh;
+    list-style:inside;
+
+}
